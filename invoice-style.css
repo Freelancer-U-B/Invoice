@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.aling-left{
+	float: left;
+}
+.aling-right{
+	float: right;
+}
+.sec1{
+	overflow: hidden;
+}
+.sec2{
+	overflow: hidden;
+	margin-top: 40px;
+}
+table {
+  border-collapse: collapse;
+}
+table, td, th {
+  border: 1px solid black;
+}
+img {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.08;
+}
+.watermark-container {
+    width: 30%;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+/* This class used Anywere */
+.textLeft{
+	text-align: left;
+}
+.textRight{
+	text-align: right;
+}
+.textCenter{
+	text-align: center;
+}
+.width70{
+	width: 70%;
+}
+.width15{
+	width: 15%;
+}
+.width15{
+	width: 15%;
+}
+.noBorder{
+	border: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
